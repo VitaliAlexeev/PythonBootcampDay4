@@ -1,0 +1,9 @@
+pandas
+pandas_datareader
+numpy
+matplotlib
+seaborn
+plotly
+datetime
+wikipedia
+wordcloud
