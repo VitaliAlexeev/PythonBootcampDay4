@@ -1,9 +1,7 @@
 pandas
 pandas_datareader
+yfinance
 numpy
 matplotlib
 seaborn
-plotly
 datetime
-wikipedia
-wordcloud
